@@ -1,0 +1,13 @@
+# Arquivos e pastas geradas pelo NetBeans
+nbproject/
+build/
+dist/
+nb-configuration.xml
+manifest.mf
+
+# Arquivos de compilação Java
+*.class
+
+# Arquivos de logs e temporários
+*.log
+*~
