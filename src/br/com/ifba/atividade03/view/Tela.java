@@ -288,6 +288,8 @@ public class Tela extends javax.swing.JFrame {
                 txtResultado.setText(
                 "Sua idade é: " + idade.getYears() + " anos, " + idade.getMonths() + " meses e " + idade.getDays() + " dias.");
                 
+
+                
             // Informa exceçẽos caso os valores dos spinners não formem uma data válida
             }catch (Exception e){
                 txtResultado.setText(" Data invalida!");
